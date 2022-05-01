@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OnRoad</string>
+    <string name="text_hint_correo">Correo Electrónico</string>
+    <string name="text_btn_IniciarSesion">Iniciar Sesión</string>
+    <string name="text_hint_password">Contraseña</string>
+    <string name="text_btn_Registrarme">Registrarme</string>
+    <string name="text_btn_ir">Ir</string>
+    <string name="title_activity_mapas">Mapas</string>
+    <string name="title_activity_mapa">Mapa</string>
+</resources>
